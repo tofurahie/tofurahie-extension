@@ -78,6 +78,6 @@ jobs:
 
       - name: Upload Release Assets
         run: |
-          gh release create ${{ env.NEW_TAG }} "src\tofurahieExt\bin\Release\net48\Oxide.Ext.tofurahieExt.dll" --title "Release ${{ env.NEW_TAG }}"
+          gh release create ${{ env.NEW_TAG }} "src\tofurahieExt\bin\Any CPU\Release\net48\Oxide.Ext.tofurahieExt.dll" --title "Release ${{ env.NEW_TAG }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

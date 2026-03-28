@@ -13,9 +13,7 @@ if (Test-Path -Path $resourcesDir)
 }
 
 $files = @(
-"rust-dependencies-download.ps1",
-"public-dependencies-download.ps1"
-"private-dependencies-download.ps1"
+"rust-dependencies-download.ps1"
 )
 
 # Loop through each file and execute it

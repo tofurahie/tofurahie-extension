@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tofurahie-extension", "tofurahie-extension\tofurahie-extension.csproj", "{234BC34B-1BBF-4742-BAC7-810D4033437E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tofurahieExt", "tofurahieExt\tofurahieExt.csproj", "{234BC34B-1BBF-4742-BAC7-810D4033437E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

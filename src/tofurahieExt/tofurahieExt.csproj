@@ -2,10 +2,11 @@
 
     <PropertyGroup>
         <TargetFramework>net48</TargetFramework>
-        <RootNamespace>tofurahie_extension</RootNamespace>
+        <RootNamespace>Oxide.Ext.tofurahieExt</RootNamespace>
+        <AssemblyName>Oxide.Ext.tofurahieExt</AssemblyName>
         <LangVersion>11</LangVersion>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
+        <DebugType>embedded</DebugType>
+        <Nullable>disable</Nullable>
     </PropertyGroup>
 
 </Project>
